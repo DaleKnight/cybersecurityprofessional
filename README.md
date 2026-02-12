@@ -1,5 +1,5 @@
 # cybersecurityprofessional
-Security engineering portfolio – certs, labs, and real-world detections.
+Security Engineering
 ## Certifications
 
 - CISSP – Certified Information Systems Security Professional  
