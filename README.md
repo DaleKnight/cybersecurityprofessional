@@ -9,8 +9,8 @@ Security Engineering
 - SC-300 – Identity & Access Administrator      <https://learn.microsoft.com/api/credentials/share/en-us/87707645/CFC429D7C60CDA2C?sharingId=8769A66020A07E4>
 - SC-400 – Information Protection Administrator <https://learn.microsoft.com/api/credentials/share/en-us/87707645/A9522CAC1DA6CE58?sharingId=8769A66020A07E4>
 - AI-900 - Azure AI Fundamentals                <https://learn.microsoft.com/api/credentials/share/en-us/87707645/4F9813DD87B34313?sharingId=8769A66020A07E4>
-- CompTIA Security+  
+- CompTIA SecurityX
 - CompTIA CySA+  
-- CompTIA CASP+
+- CompTIA Security+
 
 Credly Profile for all certifications except Microsoft: <https://www.credly.com/users/dale-knight.19593117>  
