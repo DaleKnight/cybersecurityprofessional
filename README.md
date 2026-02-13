@@ -49,7 +49,7 @@ Full query available here:
 
 ## Inbound DMARC Domain Spoof – Auth Failure Correlation (Auto Soft Delete)
 
-![Rule overview](images/dmarc-spoof-overview.png)
+![Rule overview](images/dmarc-spoof-overview1.png)
 
 ![Automated response](images/dmarc-spoof-automation.png)
 
