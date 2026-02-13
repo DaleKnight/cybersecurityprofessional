@@ -36,7 +36,7 @@ Detects potential business email compromise (BEC) where a trusted executive or V
 
 ### Detection Logic
 Full query available here:  
-👉 `kql/vip-displayname-impersonation.kql`
+[View full query](kql/vip-displayname-impersonation.kql)
 
 **Rule Highlights**
 - Runs hourly  
