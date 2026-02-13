@@ -1,6 +1,6 @@
 # cybersecurityprofessional
 
-Security engineer specializing in detection engineering, identity, and cloud security across Microsoft ecosystems, with a strong focus on developing toward cybersecurity architecture.
+Sr. Security engineer specializing in detection engineering, identity, and cloud security across Microsoft ecosystems, with a strong focus on developing toward cybersecurity architecture.
 
 I design, deploy, and tune high-confidence detections in Microsoft Defender XDR, translating attacker behavior into actionable alerts, scalable controls, and automated response.
 
