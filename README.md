@@ -26,9 +26,9 @@ Examples of custom detections I have designed and operationalized in Microsoft D
 
 ## VIP Display Name Impersonation – Sender Mismatch Detection
 
-![Rule overview](images/vip-impersonation-overview.png)
-![Frequency / severity](images/vip-impersonation-config.png)
-![Entity mapping](images/vip-impersonation-entitymap.png)
+![Rule overview](images/RuleOverview.png)
+![Frequency / severity](images/FrequencySeverity.png)
+![Entity mapping](images/Entitymapping.png)
 
 
 **Purpose:**  
