@@ -1,0 +1,16 @@
+let window = 1h;  // match rule frequency & lookback time
+EmailEvents
+| where Timestamp >= ago(window)                  // prevent unintended historical backfill
+| where EmailDirection == "Inbound"
+| where SenderMailFromDomain == "company.com"
+| where RecipientDomain == "company.com"
+| where SenderIPv4 != "X.X.X.X"                   // exclude known legitimate relay/gateway IP if applicable
+| where DeliveryAction != "Blocked"
+| where SenderFromAddress != "alerts@company.com" // exclude known internal automation sender if applicable
+| extend auth = parse_json(AuthenticationDetails)
+| where tostring(auth.SPF) == "softfail"
+  and tostring(auth.DKIM) == "none"
+  and tostring(auth.DMARC) == "fail"
+  and tostring(auth.CompAuth) == "fail"
+| summarize arg_max(Timestamp, *) by coalesce(NetworkMessageId, InternetMessageId)
+| order by Timestamp desc
