@@ -1,0 +1,14 @@
+EmailEvents
+| where Timestamp > ago(1h)
+| where SenderDisplayName has_any ("VIP User 1", "VIP User 2", "VIP User 3")
+| where SenderFromAddress !in~ (
+    "vip1@company.com",
+    "vip2@company.com",
+    "vip3@company.com",
+    "approved_external_sender@example.com")
+| where DeliveryAction != "Blocked"
+| where OrgLevelPolicy != @"Phishing simulation"
+| summarize arg_max(Timestamp, ReportId, *) by InternetMessageId
+| project Timestamp, ReportId, NetworkMessageId, InternetMessageId,
+          SenderDisplayName, SenderFromAddress,
+          RecipientEmailAddress, Subject, RecipientObjectId, OrgLevelPolicy
