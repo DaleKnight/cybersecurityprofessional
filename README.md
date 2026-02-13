@@ -14,3 +14,32 @@ Security Engineering
 - CompTIA Security+
 
 Credly Profile for all certifications except Microsoft: <https://www.credly.com/users/dale-knight.19593117>  
+
+
+---
+
+# Detection Engineering Portfolio
+
+Examples of custom detections I have designed and operationalized in Microsoft Defender XDR.
+
+---
+
+## VIP Display Name Impersonation – Sender Mismatch Detection
+
+![VIP impersonation detection example](images/vip-impersonation-example.png)
+
+**Purpose:**  
+Detects potential business email compromise (BEC) where a trusted executive or VIP display name is used but the message originates from an unauthorized sender.
+
+### Detection Logic
+Full query available here:  
+👉 `kql/vip-displayname-impersonation.kql`
+
+**Rule Highlights**
+- Runs hourly  
+- High severity  
+- Mailbox entity mapping  
+- Supports automated remediation actions
+
+---
+
