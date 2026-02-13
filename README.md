@@ -26,7 +26,10 @@ Examples of custom detections I have designed and operationalized in Microsoft D
 
 ## VIP Display Name Impersonation – Sender Mismatch Detection
 
-![VIP impersonation detection example](images/vip-impersonation-example.png)
+![Rule overview](images/vip-impersonation-overview.png)
+![Frequency / severity](images/vip-impersonation-config.png)
+![Entity mapping](images/vip-impersonation-entitymap.png)
+
 
 **Purpose:**  
 Detects potential business email compromise (BEC) where a trusted executive or VIP display name is used but the message originates from an unauthorized sender.
