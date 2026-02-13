@@ -45,4 +45,25 @@ Full query available here:
 - Supports automated remediation actions
 
 ---
+---
+
+## Inbound DMARC Domain Spoof – Auth Failure Correlation (Auto Soft Delete)
+
+![Rule overview](images/dmarc-spoof-overview.png)
+
+![Automated response](images/dmarc-spoof-automation.png)
+
+**Purpose:**  
+Detects inbound spoofing attempts targeting the organization’s domain by correlating SPF/DKIM/DMARC failures and Composite Authentication (CompAuth). Built for high-confidence detection and automated containment after tuning.
+
+### Detection Logic
+[View full query](kql/inbound-dmarc-domain-spoof.kql)
+
+**Rule Highlights**
+- Runs hourly (scheduled detection)
+- High severity
+- Mailbox entity mapping (recipient)
+- Supports automated remediation (soft delete / hard delete / move to folder)
+
+---
 
