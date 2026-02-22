@@ -23,8 +23,6 @@ This repository highlights practical, production-style examples of custom detect
 
 Credly Profile for all certifications except Microsoft: <https://www.credly.com/users/dale-knight.19593117>  
 
-
----
 ---
 
 ## 🚧 In Progress – AI-102: Azure AI Engineer Associate  
