@@ -85,7 +85,7 @@ This demonstrates that LLM behavior can be materially influenced by upstream ins
 - Output validation and guardrails  
 - Logging and monitoring AI configuration changes  
 
-In enterprise deployments, **prompt configuration becomes part of the security boundary.**
+**In enterprise deployments, prompt configuration becomes part of the security boundary.**
 ---
 # Detection Engineering Portfolio
 
