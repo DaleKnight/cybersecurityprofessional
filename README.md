@@ -84,7 +84,7 @@ This demonstrates that LLM behavior can be materially influenced by upstream ins
 - Output validation and guardrails  
 - Logging and monitoring AI configuration changes  
 
-**In enterprise deployments, prompt configuration becomes part of the security boundary.**
+*In enterprise deployments, prompt configuration becomes part of the security boundary.*
 
 ---
 
@@ -93,7 +93,7 @@ This demonstrates that LLM behavior can be materially influenced by upstream ins
 Examples of custom detections I have designed and operationalized in Microsoft Defender XDR.
 
 
-VIP Display Name Impersonation – Sender Mismatch Detection
+### VIP Display Name Impersonation – Sender Mismatch Detection
 
 ![Rule overview](images/RuleOverview.png)
 ![Frequency / severity](images/FrequencySeverity.png)
