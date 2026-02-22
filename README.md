@@ -93,7 +93,6 @@ This demonstrates that LLM behavior can be materially influenced by upstream ins
 
 Examples of custom detections I have designed and operationalized in Microsoft Defender XDR.
 
----
 
 ## VIP Display Name Impersonation – Sender Mismatch Detection
 
@@ -115,7 +114,6 @@ Full query available here:
 - Mailbox entity mapping  
 - Supports automated remediation actions
 
----
 ---
 
 ## Inbound DMARC Domain Spoof – Auth Failure Correlation (Auto Soft Delete)
