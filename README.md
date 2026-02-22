@@ -86,8 +86,8 @@ This demonstrates that LLM behavior can be materially influenced by upstream ins
 - Logging and monitoring AI configuration changes  
 
 **In enterprise deployments, prompt configuration becomes part of the security boundary.**
----
-# Detection Engineering Portfolio
+
+## Detection Engineering Portfolio
 
 Examples of custom detections I have designed and operationalized in Microsoft Defender XDR.
 
