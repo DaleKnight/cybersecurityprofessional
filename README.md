@@ -92,7 +92,7 @@ This demonstrates that LLM behavior can be materially influenced by upstream ins
 
 Examples of custom detections I have designed and operationalized in Microsoft Defender XDR.
 
----
+
 VIP Display Name Impersonation – Sender Mismatch Detection
 
 ![Rule overview](images/RuleOverview.png)
