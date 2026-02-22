@@ -36,7 +36,6 @@ As organizations integrate Azure OpenAI and AI-driven copilots into enterprise e
 - Deployment: Default configuration
 - Variable changed: System prompt only
 
----
 
 ## 🎭 Prompt Conditioning Demonstration
 
