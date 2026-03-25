@@ -1,12 +1,12 @@
 # cybersecurityprofessional
 
-Sr. Security engineer specializing in detection engineering, identity, and cloud security across Microsoft ecosystems, with a strong focus on developing toward cybersecurity architecture.
+Senior Security Engineer specializing in detection engineering, identity, and cloud security, with a strong trajectory toward cybersecurity architecture.
 
-I design, deploy, and tune high-confidence detections in Microsoft Defender XDR, translating attacker behavior into actionable alerts, scalable controls, and automated response.
+I design, deploy, and tune high-confidence detections across enterprise environments, translating attacker behavior into actionable alerts, scalable controls, and automated response.
 
-I am actively expanding into AI-driven security capabilities and governance to prepare organizations for the next generation of cloud and data protection challenges.
+I am actively expanding into AI-driven security, governance, and data protection to help organizations prepare for the next generation of threats.
 
-This repository highlights practical, production-style examples of custom detections, rule configuration, and operational implementation.
+This repository showcases practical, production-style implementations of detection logic, rule engineering, and real-world security operations.
 
 ## Certifications
 
