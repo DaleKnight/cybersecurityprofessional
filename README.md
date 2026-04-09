@@ -1,4 +1,4 @@
-# cybersecurityprofessional
+# Cybersecurity Professional
 
 Senior Security Engineer specializing in detection engineering, identity, and cloud security, with a strong trajectory toward cybersecurity architecture.
 
