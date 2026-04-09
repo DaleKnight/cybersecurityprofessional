@@ -1,6 +1,6 @@
 # Cybersecurity Professional
 
-Senior Security Engineer specializing in detection engineering, identity, and cloud security, with a strong trajectory toward cybersecurity architecture.
+Senior Security Engineer specializing in detection engineering, identity, and cloud security, focused on designing secure, scalable architectures for modern enterprises.
 
 I design, deploy, and tune high-confidence detections across enterprise environments, translating attacker behavior into actionable alerts, scalable controls, and automated response.
 
