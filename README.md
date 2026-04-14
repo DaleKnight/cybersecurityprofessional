@@ -1,12 +1,14 @@
 # Cybersecurity Professional
 
-Senior Security Engineer specializing in detection engineering, identity, and cloud security, focused on designing secure, scalable architectures for modern enterprises.
+Cybersecurity Architect | Detection Engineering | Cloud & Identity Security
 
-I design, deploy, and tune high-confidence detections across enterprise environments, translating attacker behavior into actionable alerts, scalable controls, and automated response.
+Security professional specializing in designing and implementing scalable detection and identity-driven security architectures across enterprise environments.
 
-I am actively expanding into AI-driven security, governance, and data protection to help organizations prepare for the next generation of threats.
+I bridge hands-on detection engineering with architectural design, building high-confidence detections, automated response workflows, and resilient security controls aligned to attacker behavior.
 
-This repository showcases practical, production-style implementations of detection logic, rule engineering, and real-world security operations.
+Currently expanding into AI-driven security, governance, and data protection to support the next generation of enterprise defense.
+
+This repository highlights practical implementations of detection engineering, security architecture patterns, and real-world operational use cases.
 
 ## Certifications
 
