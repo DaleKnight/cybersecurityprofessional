@@ -1,8 +1,8 @@
 # Cybersecurity Professional
 
-Cybersecurity Architect | Detection Engineering | Cloud & Identity Security
+Cybersecurity Architect | Cloud & Enterprise Security
 
-Security professional specializing in designing and implementing scalable detection and identity-driven security architectures across enterprise environments.
+Architecting scalable, threat-informed detection and identity-driven security solutions across enterprise environments.
 
 I bridge hands-on detection engineering with architectural design, building high-confidence detections, automated response workflows, and resilient security controls aligned to attacker behavior.
 
