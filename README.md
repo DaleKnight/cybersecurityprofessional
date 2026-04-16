@@ -38,7 +38,7 @@ This portfolio demonstrates practical detection engineering, including correlati
 
 ---
 
-## 🤖 AI Security Engineering Portfolio
+## 🤖 Knight AI Security Portfolio
 
 Focused on securing AI systems through prompt engineering controls, input/output filtering, and secure architecture design in Azure OpenAI environments.
 
