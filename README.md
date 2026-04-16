@@ -43,5 +43,5 @@ This portfolio demonstrates practical detection engineering, including correlati
 Focused on securing AI systems through prompt engineering controls, input/output filtering, and secure architecture design in Azure OpenAI environments.
 
 👉 **View AI Security Portfolio:**  
-🔗 https://github.com/DaleKnight/ai-security-engineering-portfolio
+🔗 https://github.com/DaleKnight/knight-ai-security-portfolio
 
