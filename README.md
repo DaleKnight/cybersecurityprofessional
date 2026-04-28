@@ -15,6 +15,7 @@ This repository highlights practical implementations of detection engineering, s
 - CISSP – Certified Information Systems Security Professional  
 - CCSP – Certified Cloud Security Professional
 - SC-100 – Microsoft Certified: Cybersecurity Architect Expert       <https://learn.microsoft.com/api/credentials/share/en-us/87707645/74B66F2D3EF42E21?sharingId=8769A66020A07E4>
+- AI-102 - Microsoft Certified: Azure AI Engineer Associate          <https://learn.microsoft.com/api/credentials/share/en-us/87707645/F041CF26643F2F57?sharingId=8769A66020A07E4>
 - AZ-500 – Microsoft Certified: Azure Security Engineer Associate    <https://learn.microsoft.com/api/credentials/share/en-us/87707645/7E1A9DD2D7A27E2A?sharingId=8769A66020A07E4>
 - SC-300 – Microsoft Certified: Identity & Access Administrator      <https://learn.microsoft.com/api/credentials/share/en-us/87707645/CFC429D7C60CDA2C?sharingId=8769A66020A07E4>
 - SC-400 – Microsoft Certified: Information Protection Administrator (retired by Microsoft) <https://learn.microsoft.com/api/credentials/share/en-us/87707645/A9522CAC1DA6CE58?sharingId=8769A66020A07E4>
@@ -27,6 +28,15 @@ Credly Profile for all certifications except Microsoft: <https://www.credly.com/
 
 ---
 
+## 🤖 Knight AI Security Portfolio
+
+Focused on securing AI systems through prompt engineering controls, input/output filtering, and secure architecture design in Azure OpenAI environments.
+
+👉 **View AI Security Portfolio:**  
+🔗 https://github.com/DaleKnight/knight-ai-security-portfolio
+
+---
+
 ## 🔍 Detection Engineering Portfolio
 
 Hands-on detection engineering work showcasing KQL-based detections, threat correlation, and automated response strategies across Microsoft Defender XDR and Sentinel.
@@ -36,12 +46,5 @@ Hands-on detection engineering work showcasing KQL-based detections, threat corr
 
 This portfolio demonstrates practical detection engineering, including correlation logic, tuning considerations, and automated remediation design.
 
----
 
-## 🤖 Knight AI Security Portfolio
-
-Focused on securing AI systems through prompt engineering controls, input/output filtering, and secure architecture design in Azure OpenAI environments.
-
-👉 **View AI Security Portfolio:**  
-🔗 https://github.com/DaleKnight/knight-ai-security-portfolio
 
