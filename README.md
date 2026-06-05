@@ -1,14 +1,12 @@
 # Cybersecurity Professional
 
-Cybersecurity Architect | Cloud & Enterprise Security
+Cybersecurity Architect | Cloud, Enterprise & AI Security
 
-Architecting scalable, threat-informed detection and identity-driven security solutions across enterprise environments.
+I believe the strongest security solutions are practical, scalable, and aligned to how organizations actually operate.
 
-I bridge hands-on detection engineering with architectural design, building high-confidence detections, automated response workflows, and resilient security controls aligned to attacker behavior.
+My experience spans security architecture, cloud security, identity, detection engineering, and data protection. While I continue to design and implement traditional security controls, my current focus is helping organizations securely adopt AI technologies through governance, guardrails, secure design patterns, and human-in-the-loop decision making.
 
-Currently expanding into AI-driven security, governance, and data protection to support the next generation of enterprise defense.
-
-This repository highlights practical implementations of detection engineering, security architecture patterns, and real-world operational use cases.
+This portfolio showcases the intersection of cybersecurity and AI.
 
 ## Certifications
 
