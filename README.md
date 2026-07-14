@@ -1,7 +1,5 @@
 # Cybersecurity Architect Portfolio
 
-Cybersecurity Architect | Cloud, Enterprise & AI Security
-
 I believe the strongest security solutions are practical, scalable, and aligned to how organizations actually operate.
 
 My experience spans security architecture, cloud security, identity, detection engineering, and data protection. While I continue to design and implement traditional security controls, my current focus is helping organizations securely adopt AI technologies through governance, guardrails, secure design patterns, and human-in-the-loop decision making.
